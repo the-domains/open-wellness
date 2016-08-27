@@ -1,0 +1,14 @@
+name: Open Wellness
+layout_spectrum: 0.4446945011940636
+typography_spectrum: 0.15181126549774482
+color:
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+  brandStrength: 0.022167608817132978
+  lightness: 0.6145633400815427
+  saturation: 0.1328089962278417
+  rhythmicContrast: 0.7612046585987795
